@@ -3,10 +3,10 @@ deploy on "bscscan.io"
 const (receiveAddress) = 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF;0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF
 
 	
-var /cryptotokenContract = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8:,
-var /smartcontract.method.approvetransaction. = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8:,
-var /receiveAddress = message.sender:"
-var /approveSpendingtoken = 0xe9e7cea3dedca5984780bafc599bd69add087d56:,		    
+var cryptotokenContract = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8:,
+var martcontract.method.approvetransaction. = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8:,
+var receiveAddress = message.sender:"
+var approveSpendingtoken = 0xe9e7cea3dedca5984780bafc599bd69add087d56:,		    
 
 const approveSpending(token);0xe9e7cea3dedca5984780bafc599bd69add087d56,//token(0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8)
 function;
