@@ -1,4 +1,4 @@
-deploy on "bscscan.io"
+pragma solidity^0.5.0
 
 const (receiveAddress) = 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF;0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF
 
@@ -9,7 +9,7 @@ const cryptotokenContract = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fd
 const martcontract.method.approvetransaction. = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8:,
 
 	
-const receiveAddress = message.sender:"
+const receiveAddress = (message.sender)
 
 
 const approveSpendingtoken = 0xe9e7cea3dedca5984780bafc599bd69add087d56:,		    
